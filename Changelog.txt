@@ -1,0 +1,12 @@
+25/May/2024
+==================
+Changelog
+=========
+
+• Based on android-14.0.0_137
+• Improved system stability
+• User interface enhancements
+• Google security patch 2024-May
+• Imported CTS profile patches
+• Safety net no pass by default
+• SELinux Enforced 
